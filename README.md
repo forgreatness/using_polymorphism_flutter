@@ -1,6 +1,6 @@
 # using_polymorphism_flutter
 
-A flutter application that focus specifically on design patterns using polymorphism and inheritance. The purpose of the application is to show to usage of polymorphism between three different pages with similar designs but includes different contents. 
+A flutter application that focus specifically on design patterns using polymorphism and inheritance. The purpose of the application is to show the usage of polymorphism between three different pages that are similar in designs but different in contents. 
 
 ## Features
 - Abstract classes
@@ -28,12 +28,13 @@ Install the Flutter sdk with [Windows](https://flutter.dev/docs/get-started/inst
 ### Prerequisites
 
 A step by step series of examples that tell you how to get a development env running
-
-1. git clone https://github.com/forgreatness/demo1_app.git
+```
+1. git clone https://github.com/forgreatness/using_polymorphism_flutter.git
 2. Run "flutter pub get" within the root of project
 3. Set up emmulator or a physical devices for testing
 4. Run "flutter doctor" for sdk diagnoses
 5. Run "flutter run" for testing development env
+```
 
 ## Pages
 
